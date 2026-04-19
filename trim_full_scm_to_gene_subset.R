@@ -9,7 +9,7 @@ suppressPackageStartupMessages({
 # Rscript trim_full_scm_to_gene.R Trophic.Level CYP4A5 \
 #  /path/to/SCM/full_tree/Trophic.Level/trees_paml \
 #  /path/to/SCM/sub_trees/CYP4A5.phy \
-#  /path/to/SCM/CYP4A5/Trophic.Level/trees_paml_trimmed_fixed
+#  /path/to/SCM/CYP4A5/Trophic.Level/trees_paml_trimmed
 
 args <- commandArgs(trailingOnly = TRUE)
 if (length(args) < 4) {
