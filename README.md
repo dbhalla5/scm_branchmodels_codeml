@@ -4,7 +4,7 @@ This repository contains the scripts used to perform stochastic character mappin
 The workflow is general and can be applied to any gene family or phylogeny. These scripts were used for the analyses in the associated manuscript (https://www.biorxiv.org/content/10.64898/2026.02.03.700598v1.full).
 
 ## scripts:   
-(1) **_trim_full_scm_to_gene_subset.R_** — trim trait tree for specific gene subset 
+(1) ***trim_full_scm_to_gene_subset.R*** — trim trait tree for specific gene subset 
 
 (2) *scm_and_trim.R*  — 2 modes (stochastic character mapping or trimming)  
 
