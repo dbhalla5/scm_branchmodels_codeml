@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "SCM and codeml branch- and branch-site model analysis workflow"
+type: software
+authors:
+  - family-names: Bhalla
+    given-names: Diksha
+repository-code: "https://github.com/dbhalla5/scm_branchmodels_codeml"
+url: "https://github.com/dbhalla5/scm_branchmodels_codeml"
+license: MIT
+version: "1.0"
+date-released: 2026-09-07
