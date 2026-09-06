@@ -12,7 +12,7 @@ The workflow is general and can be applied to any gene family or phylogeny. Thes
 
 (4) *sample_prepare_codeml_branch_site_runs.py* — script to generate codeml branch-site .ctl files for every stochastic character mapping (SCM) realization. Expects SCM tree files for every SCM realization already exist.
 
-(5) **** *sample_run_branch_site_in_batches.sh* — script to bulk run the .ctl files prepared with *sample_prepare_codeml_branch_site_runs.py* in batches.
+(5) *****sample_run_branch_site_in_batches.sh* — script to bulk run the .ctl files prepared with *sample_prepare_codeml_branch_site_runs.py* in batches.
 
 
 ## Citation
